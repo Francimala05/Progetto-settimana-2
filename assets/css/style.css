@@ -1,0 +1,158 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans&display=swap');
+html{
+    background-color:gainsboro;
+}
+header{
+    background-color: #222f3e ;
+
+} 
+.logo{
+
+    height: 7vh;
+    margin-left: 40px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+nav{
+    display: flex;
+    background-color: #354759 ;
+    height: 4vh;
+    align-items: center;
+    font-family:'Open Sans';
+font-weight: 400;
+}   
+
+.menu{
+    text-decoration: none;
+    color:white;
+    font-size: 20px;
+    margin-left: 30px;
+}
+
+main{
+    text-align: center;
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+button{
+    background-color: #f56600 ;
+    width: 100%;
+    border-style: none;
+    height: 40px;
+    color:white;
+    font-size: 20px;
+    font-family:'Open Sans';
+    font-weight: 400;
+
+}
+.natale{
+    height: 200px;
+    background-image: url(../images/bg-image.png);
+    background-size: 88%;
+    color:white;
+}
+
+h2{
+    text-align: center;
+    font-size: 40px;
+    font-family:'Open Sans';
+font-weight: 700;
+}
+
+h4{
+    text-align: center;
+    font-size: 20px;
+    font-family:'Open Sans';
+    font-weight: 700;
+}
+
+.fotovarie{
+    display: block;
+    background-color: rgb(255, 255, 255);
+    margin-left: 30px;
+    margin-right: 30px;
+}
+
+.collezione{
+    height: 500px;
+    width: 400px;
+    border-radius: 20px;
+    margin-left: 45px;
+}
+
+.perfect{
+    margin-left:45px;
+    font-size: 23px;
+    font-family:'Open Sans';
+    font-weight: 400 bold;
+
+}
+
+.shopnow{
+    color:rgb(48, 136, 136);
+    text-decoration:solid;
+    font-family:'Open Sans';
+    font-weight: 700;
+}
+
+.immaginegrande1{
+    background-image: url(../images/img_9.png);
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 500px;
+    width: auto;
+    background-size: 100%;
+}
+
+.immaginegrande2{
+    background-image: url(../images/img_10.png);
+    margin-left: 30px;
+    margin-right: 30px;
+    height: 500px;
+    width: auto;
+    background-size: 100%;
+}
+
+.accentra{
+    text-align: center;
+    font-size: 20px;
+    margin-top: 5px;
+    font-family:'Open Sans';
+    font-weight: 400;
+}
+
+.back{
+    display: flex;
+    background-color: #354759;
+    height: 40px;
+    align-items: center;
+    justify-content: center;
+    font-family:'Open Sans';
+    font-weight: 400;
+}
+
+.salire{
+    color:white;
+    justify-content: center;
+    font-family:'Open Sans';
+    font-weight: 400;
+}
+
+
+footer{
+    display: flex;
+    height: 240px;
+    background-color: #222f3e ;
+    justify-content: center;
+    align-items:center;
+}
+
+.logofinale{
+    display: flex;
+    height: 7vh;
+    justify-content: center;
+    align-items:center;
+}
